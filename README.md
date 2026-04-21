@@ -1,6 +1,6 @@
 #  Data Mining Course Project – Credit Risk Assessment
 
-**Team Project** – Faculty of Engineering / Data Mining Course  
+**Team Project** – Faculty of computer and data science / Data Mining Course  
 
 This project implements a complete data mining pipeline on a real‑world **credit risk dataset**. The work includes exploratory analysis, preprocessing, K‑Medoids & hierarchical clustering, a fuzzy logic inference system, and genetic algorithm optimization.
 
