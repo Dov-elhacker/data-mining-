@@ -1,4 +1,4 @@
-# 🧠 Data Mining Course Project – Credit Risk Assessment
+#  Data Mining Course Project – Credit Risk Assessment
 
 **Team Project** – Faculty of Engineering / Data Mining Course  
 
@@ -6,7 +6,7 @@ This project implements a complete data mining pipeline on a real‑world **cred
 
 ---
 
-## 👥 Team Members
+##  Team Members
 
 | # | Name | ID |
 |---|------|----|
@@ -23,7 +23,7 @@ This project implements a complete data mining pipeline on a real‑world **cred
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 - **Source:** [Credit Risk Dataset](https://www.kaggle.com/datasets/laotse/credit-risk-dataset) (replace with actual link)
 - **Description:** Loan application data containing demographic, financial, and credit history attributes.
@@ -31,3 +31,25 @@ This project implements a complete data mining pipeline on a real‑world **cred
 - **Domain:** Finance / Banking – predicting credit risk and loan default probability.
 
 ---
+
+## 📁 Project Structure
+data-mining-/
+├── README.md
+├── requirements.txt
+├── .gitignore
+├── notebooks/
+│ ├── 1_EDA_Visualization.ipynb
+│ ├── 2_Preprocessing.ipynb
+│ ├── 3_KMedoid_Clustering.ipynb
+│ ├── 4_Hierarchical_Clustering.ipynb
+│ ├── 5_Fuzzy_Logic.ipynb
+│ ├── 6_Genetic_Algorithm.ipynb
+│ └── 7_Implementation.ipynb
+├── data/
+│ ├── credit_risk_dataset.csv
+│ ├── cleaned_data.csv
+│ └── pca_data.csv (optional)
+├── images/
+│ └── (plots, cluster visualizations, fuzzy membership functions)
+└── src/
+└── (optional Python modules for reuse)
