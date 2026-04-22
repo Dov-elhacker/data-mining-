@@ -25,7 +25,7 @@ This project implements a complete data mining pipeline on a real‑world **cred
 
 ##  Dataset
 
-- **Source:** [Credit Risk Dataset](https://www.kaggle.com/datasets/laotse/credit-risk-dataset) (replace with actual link)
+- **Source:** [[Credit Risk Dataset](https://www.kaggle.com/datasets/laotse/credit-risk-dataset) (replace with actual link)](https://www.kaggle.com/datasets/laotse/credit-risk-dataset)
 - **Description:** Loan application data containing demographic, financial, and credit history attributes.
 - **Size:** >1000 instances, 6+ features (numeric + categorical)
 - **Domain:** Finance / Banking – predicting credit risk and loan default probability.
