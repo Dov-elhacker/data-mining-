@@ -227,7 +227,7 @@ The GA evolves binary masks over all features to find the subset that maximises 
 
 Input Record → Fuzzy Score → Risk Category → Cluster Assignment → Recommendation
 
-*Output Example:
+**Output Example:** 
 
 {
   "fuzzy_risk_score": 0.452,
@@ -238,9 +238,9 @@ Input Record → Fuzzy Score → Risk Category → Cluster Assignment → Recomm
 
 | Risk Score Range | Category | Action |
 | :--- | :--- | :--- |
-| < 0.40 | Low Risk | ✅ Approve |
-| 0.40 – 0.70 | Medium Risk | 🔍 Review manually |
-| > 0.70 | High Risk | ❌ Reject / require collateral |
+| < 0.40 | Low Risk |  Approve |
+| 0.40 – 0.70 | Medium Risk |  Review manually |
+| > 0.70 | High Risk |  Reject / require collateral |
 
 
 
